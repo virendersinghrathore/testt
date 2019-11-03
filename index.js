@@ -10,7 +10,7 @@ const defaultFilters = Object.freeze({
   ethnicity: 'default',
   income: 'default'
 });
-
+https://github.com/rderbier-tibco/tgdb-rest-api/blob/88d618463d3141b1e76f1af4d1580d1af76efd5d/lib/pdu/impl/GetEntityResponse.js
 export class Trufactor{
   constructor({domain='',}={}){
     this.queuedRequests = [];
